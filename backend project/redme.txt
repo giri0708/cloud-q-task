@@ -1,0 +1,20 @@
+ => 1st- create react folder ,
+ => then create formchild.js into src folder,
+ => and add form.css file.
+ => and copy code paste it.
+ => install axios
+ => 
+ => 2nd create another folder outside the react folder (backend project)
+ => create main.js file into 2nd folder
+ => open terminal => type a code = npm init -y. then its create a package.json file.
+ => and install nodemon,express,mongoose,concurrently,cors,query-string  .
+  =>  use the command of = npm i packeageName.
+   => copy the code to mian.js
+    =>  and add schema file also.
+ => 
+  => copy the 1st folder and paste in to the 2nd folder (backend project) .
+  
+  => important:
+      =>  let check the all file paths are correct .
+
+     => finnaly run the project using backend project>npm run dev.   
